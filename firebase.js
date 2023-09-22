@@ -40,4 +40,5 @@ export {auth}
 
 // const analytics = getAnalytics(app);
 
-//IOS AuthO login: 52070670777-l08gl4tcg6516upr16cline0qbp811lm.apps.googleusercontent.com
+//IOS AuthO ID: 52070670777-l08gl4tcg6516upr16cline0qbp811lm.apps.googleusercontent.com
+//Android AuthO ID: 52070670777-9lffbrsp1vcmf8eoqe0hla4dgo3tsein.apps.googleusercontent.com

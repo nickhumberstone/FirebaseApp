@@ -1,14 +1,14 @@
 import { StyleSheet, Text, View } from "react-native";
 import React from "react";
 
-const QuestionScreen = () => {
+const SettingsScreen = () => {
   return (
     <View>
-      <Text>QuestionScreen</Text>
+      <Text>SettingsScreen</Text>
     </View>
   );
 };
 
-export default QuestionScreen;
+export default SettingsScreen;
 
 const styles = StyleSheet.create({});
